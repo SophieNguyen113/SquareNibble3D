@@ -8,3 +8,4 @@ February 2023
 • Achieved a 87% increase in user engagement by designing 3D assets in Blender to add a unique touch to the game interface.
 
 
+
